@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/backend/prisma/migrations/20250516181053_create_todos_table/migration.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/prisma/migrations/20250518133829_rename_todos_model_to_todo/migration.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/backend/prisma/migrations/20250518190304_update_todo_description_optional/migration.sql" dialect="PostgreSQL" />
+  </component>
+</project>
